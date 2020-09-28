@@ -5,7 +5,6 @@ Libft is a School 42 project. The purpose of this project is to create own C lib
 [`libft.en.pdf`](/libft.en.pdf) is the task file.
 
 <p align="center">
-  <img src="/screenshots/42FileChecker.png" width="48%" align="left"/>
   <img src="/screenshots/libft-unit-test.png" width="48%" />
 </p>
 
