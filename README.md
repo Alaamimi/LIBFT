@@ -92,22 +92,4 @@ Libft is a School 42 project. The purpose of this project is to create own C lib
 * [ft_strchrs](/libft/ft_strchrs.c) ([wiki](../../wiki/ft_strchrs))
 * [ft_strsubchr](/libft/ft_strsubchr.c) ([wiki](../../wiki/ft_strsubchr))
 
-                               __
-                             .d$$b
-                           .' TO$;\
-                          /  : TP._;
-                         / _.;  :Tb|
-                        /   /   ;j$j
-                    _.-"       d$$$$
-                  .' ..       d$$$$;
-                 /  /P'      d$$$$P. |\
-                /   "      .d$$$P' |\^"l
-              .'           `T$P^"""""  :
-          ._.'      _.'                ;
-       `-.-".-'-' ._.       _.-"    .-"
-     `.-" _____  ._              .-"
-    -(.g$$$$$$$b.              .'
-      ""^^T$$$P^)            .(:
-        _/  -"  /.'         /:/;
-     ._.'-'`-'  ")/         /;/;
-  
+ 
