@@ -1,8 +1,21 @@
-# Libft
-
-Libft is a School 42 project. The purpose of this project is to create own C library.
+### Intro
+* [What is libft?](#what-is-libft)
+* [What's in it?](#whats-in-it)
 
 [`libft.en.pdf`](/libft.en.pdf) is the task file.
+
+### What is libft?
+[Libft][1] is an individual project at 1337 that requires us to re-create some standard C library functions including 
+some additional ones that can be used later to build a library of useful functions for the rest of the program.
+
+### What's in it?
+
+There are 4 sections:
+
+1.  **Libc Functions:** Some of the standard C functions
+2.  **Additional functions:** Functions 42 deems will be useful for later projects
+3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation
+4.  **Personal Functions:** Functions I believe will be useful later.
 
 <p align="center">
   <img src="/screenshots/libft-unit-test.png" width="48%" />
