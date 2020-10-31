@@ -5,17 +5,9 @@
 [`libft.en.pdf`](/libft.en.pdf) is the task file.
 
 ### What is libft?
-[Libft][1] is an individual project at 1337 that requires us to re-create some standard C library functions including 
+Libft is an individual project at 1337 that requires us to re-create some standard C library functions including 
 some additional ones that can be used later to build a library of useful functions for the rest of the program.
 
-### What's in it?
-
-There are 4 sections:
-
-1.  **Libc Functions:** Some of the standard C functions
-2.  **Additional functions:** Functions 42 deems will be useful for later projects
-3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation
-4.  **Personal Functions:** Functions I believe will be useful later.
 
 <p align="center">
   <img src="/screenshots/libft-unit-test.png" width="48%" />
@@ -104,5 +96,15 @@ There are 4 sections:
 * [ft_strrev](/libft/ft_strrev.c) ([wiki](../../wiki/ft_strrev))
 * [ft_strchrs](/libft/ft_strchrs.c) ([wiki](../../wiki/ft_strchrs))
 * [ft_strsubchr](/libft/ft_strsubchr.c) ([wiki](../../wiki/ft_strsubchr))
+
+### What's in it?
+
+There are 4 sections:
+
+1.  **Libc Functions:** Some of the standard C functions
+2.  **Additional functions:** Functions 42 deems will be useful for later projects
+3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation
+4.  **Personal Functions:** Functions I believe will be useful later.
+
 
  
