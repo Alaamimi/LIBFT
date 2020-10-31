@@ -82,20 +82,6 @@ some additional ones that can be used later to build a library of useful functio
 * [ft_lstiter](/libft/ft_lstiter.c)
 * [ft_lstmap](/libft/ft_lstmap.c)
 
-**Added personally**
-
-* [ft_isupper](/libft/ft_isupper.c) (standard function)
-* [ft_islower](/libft/ft_islower.c) (standard function)
-* [ft_isspace](/libft/ft_isspace.c) (standard function)
-* [ft_isblank](/libft/ft_isblank.c) (standard function)
-* [ft_lstaddback](/libft/ft_lstaddback.c) ([wiki](../../wiki/ft_lstaddback))
-* [ft_strndup](/libft/ft_strndup.c) (standard function)
-* [ft_strnlen](/libft/ft_strnlen.c) (standard function)
-* [ft_strlwr](/libft/ft_strlwr.c) ([wiki](../../wiki/ft_strlwr))
-* [ft_strupr](/libft/ft_strupr.c) ([wiki](../../wiki/ft_strupr))
-* [ft_strrev](/libft/ft_strrev.c) ([wiki](../../wiki/ft_strrev))
-* [ft_strchrs](/libft/ft_strchrs.c) ([wiki](../../wiki/ft_strchrs))
-* [ft_strsubchr](/libft/ft_strsubchr.c) ([wiki](../../wiki/ft_strsubchr))
 
 ### What's in it?
 
